@@ -1,0 +1,26 @@
+{
+  "name": "blob-generator",
+  "version": "1.0.0",
+  "description": "Blob generation algorithm",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "tslint": "^5.9.1",
+    "tslint-config-standard": "^7.0.0",
+    "typescript": "^2.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "totozaza"
+  },
+  "keywords": [
+    "blob",
+    "asteroid",
+    "generator"
+  ],
+  "author": "Cedric Kemp",
+  "license": "ISC"
+}
